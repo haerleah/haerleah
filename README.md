@@ -7,8 +7,24 @@
 - 🎓 College of Telecommunications and Informatics, specializing in Telecommunication Systems
 - 👨‍💻 Currently studying at [School 21 by Sber](https://21-school.ru/), as digital engineer
 
-**Technology stack:**  
-Java • Gradle • Spring • Docker • Git • PostgreSQL
+**Technology stack:**
+
+<div align="left">
+   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="50" height="50"/>&nbsp;
+   <img width="12" />
+   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Sprng" alt="Spring" width="50" height="50"/>&nbsp;
+   <img width="12" />
+   <img src="https://github.com/devicons/devicon/blob/master/icons/hibernate/hibernate-original-wordmark.svg" title="Hibernate" alt="Hibernate" width="50" height="50"/>&nbsp;
+   <img width="12" />
+   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="50" height="50"/>&nbsp;
+   <img width="12" />
+   <img src="https://github.com/devicons/devicon/blob/master/icons/gradle/gradle-original-wordmark.svg" title="Gradle" alt="Gradle" width="50" height="50"/>&nbsp;
+   <img width="12" />
+   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="50" height="50"/>&nbsp;
+   <img width="12" />
+   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="50" height="50"/>&nbsp;
+   <img width="12" />
+</div>
 
 ## 🔨 Educational projects
 
