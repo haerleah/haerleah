@@ -40,7 +40,7 @@
 - Docker Compose for quick install 
 
 ### 🕹️ REST‑API for BrickGame project series (Tetris, Snake, Race)
-<https://github.com/haerleah/RestAPI_service>
+<https://github.com/haerleah/brickgame_rest_api>
 
 **Description:** Spring Boot service encapsulating C/C++ games via JNA
 
