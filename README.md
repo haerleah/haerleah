@@ -1,38 +1,37 @@
-# Привет, я Женя! 👋  
-Мне 21, я Java разработчик из Новосибирска\
-Увлекаюсь backend‑разработкой :)
+# Hello, i'm Eugene! 👋  
+21 y.o. Java Backend Developer from Novosibirsk
 
-## Обо мне
+## About me
 
-**Образование:**  
-- 🎓 Средне‑специальное: Телекоммуникации  
-- 👨‍💻 Сейчас учусь в Школе 21 от Сбер
+**Education:**  
+- 🎓 College of Telecommunications and Informatics, specializing in Telecommunication Systems
+- 👨‍💻 Currently studying at [School 21 by Sber](https://21-school.ru/), as digital engineer
 
-**Технологии:**  
+**Technology stack:**  
 Java • Gradle • Spring • Docker • Git • PostgreSQL
 
-## 🔨 Учебные проекты
+## 🔨 Educational projects
 
-### 🎲 Игра «Крестики‑нолики» 
+### 🎲 Tic-tac-toe
 <Здесь будет ссылка на репозиторий>
 
-**Описание:** Веб‑приложение на Spring с хранением партий в PostgreSQL
+**Description:** Spring web-application with saving games in PostgreSQL
 
-**Фичи:**  
-- Регистрация/авторизация (Spring Security + JWT)  
-- Игра против minimax‑бота или другого пользователя  
-- SSE‑уведомления о ходах в реальном времени
-- Docker Compose для быстрой установки 
+**Features:**  
+- Registration/authorization (Spring Security + JWT)  
+- Playing against minimax‑bot or other player  
+- SSE real-time notifications
+- Docker Compose for quick install 
 
-### 🕹️ REST‑API для серии BrickGame (Тетрис, Змейка, Гонки)
+### 🕹️ REST‑API for BrickGame project series (Tetris, Snake, Race)
 <Здесь будет ссылка на репозиторий>
 
-**Описание:** Spring Boot сервис, оборачивающий игры через JNA
+**Description:** Spring Boot service encapsulating C/C++ games via JNA
 
-**Фичи:** 
-- Единый API для трёх игр
-- OpenAPI документация
+**Features:** 
+- Single API for all games
+- OpenAPI documenatation
 
 ##
-📫 **Контакты:**  
+📫 **Contacts:**  
 haerleah@ya.ru | Telegram: @eeeeugene
