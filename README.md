@@ -29,7 +29,7 @@
 ## 🔨 Educational projects
 
 ### 🎲 Tic-tac-toe
-<Здесь будет ссылка на репозиторий>
+<https://github.com/haerleah/TicTacToe>
 
 **Description:** Spring web-application with saving games in PostgreSQL
 
@@ -40,7 +40,7 @@
 - Docker Compose for quick install 
 
 ### 🕹️ REST‑API for BrickGame project series (Tetris, Snake, Race)
-<Здесь будет ссылка на репозиторий>
+<https://github.com/haerleah/RestAPI_service>
 
 **Description:** Spring Boot service encapsulating C/C++ games via JNA
 
