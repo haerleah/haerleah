@@ -5,7 +5,7 @@
 
 **Education:**  
 - 🎓 College of Telecommunications and Informatics, specializing in Telecommunication Systems
-- 👨‍💻 Currently studying at [School 21 by Sber](https://21-school.ru/), as digital engineer
+- 👨‍💻 Currently studying at [School 21 by Sber](https://21-school.ru/)
 
 **Technology stack:**
 
@@ -46,7 +46,8 @@
 
 **Features:** 
 - Single API for all games
-- OpenAPI documenatation
+- Java Native Access for C/C++ Libraries
+- REST
 
 ##
 📫 **Contacts:**  
